@@ -3,7 +3,7 @@
 *	该仓库持续更新，当然大家要是有题也可以贡献出来
 *	在这里说明如果没有时间书写markdown文档的话，可以打包相关的文件，发送至我的邮箱或者QQ，或者在.question_image文件夹下新建一个文件夹命名方式：昵称+时间。
 *	答题如果你答题了但是没有时间书写markdown文档，可以提交相关文件至.answer文件夹下边，命名方式为题目文件名+做题者昵称+时间。
-*	以上文件夹均为隐藏文件夹，如果找不到的话请在终端输入defaults write com.apple.finder appleShowAllFiles -boolean true && killAll Finder
+*	以上文件夹均为隐藏文件夹，如果找不到的话请在终端输入defaults write com.apple.finder AppleShowAllFiles -boolean true && killAll Finder
 
 ##	题目:
 -	2016
